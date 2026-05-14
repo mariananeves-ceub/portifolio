@@ -16,4 +16,6 @@ Sou estudante de ADS no CEUB e atualmente estou aprendendo:
 
 - 📧 mariana.1n2c@gmail.com
 - 🐙 GitHub: [github.com/mariananeves-ceub](https://github.com/mariananeves-ceub)
-- 💼 LinkedIn: linkedin.com/in/mariana-neves-da-costa  
+- 💼 LinkedIn: www.linkedin.com/in/mariana-neves-da-costa-8aba723b4
+
+  
