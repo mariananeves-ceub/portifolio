@@ -15,5 +15,5 @@ Sou estudante de ADS no CEUB e atualmente estou aprendendo:
 - Frameworks e desenvolvimento de software
 
 - 📧 mariana.1n2c@gmail.com
-- 🐙 GitHub: github.com/mariananeves-ceub
+- 🐙 GitHub: [github.com/mariananeves-ceub](https://github.com/mariananeves-ceub)
 - 💼 LinkedIn: linkedin.com/in/mariana-neves-da-costa  
